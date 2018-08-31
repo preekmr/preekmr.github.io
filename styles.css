@@ -1,0 +1,24 @@
+html, body, h1, h2 {
+    margin: 0;
+    font-family: sans;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+body {
+    margin-top: 30%;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/***PICTURE***/
+.profile-pic {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    border-radius: 300px;
+}
